@@ -1,0 +1,13 @@
+layout_spectrum: 0.7808511
+typography_spectrum: 0.1319149
+color:
+  saturation: 0.9340426
+  lightness: 0.9702128
+  brandStrength: 0.8377982
+  brandColors:
+    - '#262127'
+    - '#764C28'
+    - '#645D77'
+    - '#FAEAD8'
+  rhythmicContrast: 0.1914246
+name: "T3's w3b"
