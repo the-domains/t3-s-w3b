@@ -4,22 +4,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.1319149
 color:
   saturation: 0.9340426
   brandStrength: 0.8377982
   lightness: 0.9702128
   brandColors:
-    - '#262127'
-    - '#764C28'
-    - '#645D77'
-    - '#FAEAD8'
+    - '#272027'
+    - '#764B28'
+    - '#5D556E'
+    - '#FFF2DF'
   rhythmicContrast: 0.1914246
 layout_spectrum: 0.7808511
 name: "T3's w3b"
